@@ -1,0 +1,8 @@
+Modified by lgrfbs  11/08/2024 [MM/DD/YYYY]
+Tested with an Noname China CNC 3040 + CNC Tool Length Sensor from cnc-plus.de  
+If the Tool Length Sensor is permanently connected to the system, the lines [MachMsg("Attach clip to tool.", "WARNING!!", 0)] 
+can be disabled with a ' character and "Sleep 1000" added to the line below. 
+
+Thanks for a great script and good instructions to get it started.
+
+
